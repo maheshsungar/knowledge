@@ -1,0 +1,4 @@
+#Wed Jul 25 11:07:32 IST 2018
+base.0=C\:\\Users\\Vinoth\\Desktop\\images\\Example\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
